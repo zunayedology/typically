@@ -1,4 +1,4 @@
-# Type Mate
+# Typically
 This is a Python program to test your typing speed in the terminal. `Python Curses` was used to implement this project.
 
 ### Instructions:
